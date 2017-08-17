@@ -2,7 +2,7 @@
  * bogosort.c
  * DOES NOT WORK WITH NEGATIVE NUMBERS
  * 
- * Copyright 2017 daniel <daniel@newmaker>
+ * Copyright 2017 Daniel @cherneydh
  * 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
