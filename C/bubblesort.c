@@ -1,5 +1,5 @@
 /*
- * quicksort.c
+ * bubblesort.c
  * 
  * Copyright 2017 Daniel @cherneydh
  * 
