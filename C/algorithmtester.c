@@ -1,5 +1,5 @@
 /*
- * quicksort.c
+ * algorithmtester.c
  * 
  * Copyright 2017 daniel Daniel @cherneydh
  * 
